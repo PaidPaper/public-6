@@ -8,3 +8,4 @@ class Foo:
     print("Hello foo5")
     print("Hello foo6")
     print("Hello foo7")
+    print("Hello foo8")
