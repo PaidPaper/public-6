@@ -1,2 +1,2 @@
 print("Chad's new file")
-print("Wanda's new line")
+print("Wanda's new lining")
